@@ -10,3 +10,4 @@ A Streamlit application that assists users with document-based queries using adv
 - Allows for detailed and brief answers.
 - Model comparison tool for side-by-side answer evaluation.
 
+To run the code Streamlit run app.py
