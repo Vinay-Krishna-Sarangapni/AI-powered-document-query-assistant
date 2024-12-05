@@ -1,5 +1,4 @@
 # AI-powered-document-query-assistant
-# Advanced Document Chatbot and Model Comparison Tool
 
 ## Overview
 A Streamlit application that assists users with document-based queries using advanced language models. It also supports model comparison for better insights.
